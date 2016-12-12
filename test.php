@@ -1,4 +1,5 @@
 <?php
-	echo '第一行';
-	echo "第二行";
+	echo "one";
+	echo "two";
+	echo "three";
 ?>
